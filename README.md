@@ -9,7 +9,7 @@ This project provides an advanced image processing and insight extraction tool d
 3. Image Insight Extraction – Identify key elements, objects, or references in an image.
 4. Google Gemini AI & Generative AI – Delivers highly accurate and detailed insights.
 
-## Steps to run this Project?
+## Steps to run this Project
 
 #### Clone the repository
 ```
